@@ -1,0 +1,15 @@
+{
+    "name": "windlabs/laravel-rbac",
+    "description": "laravel rbac",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujq51",
+            "email": "liujq51@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
