@@ -1,5 +1,5 @@
 <?php
-namespace Windlabs\laravelRbac;
+namespace Windlabs\ADmin;
 
 /**
  * Class Md5Hasher

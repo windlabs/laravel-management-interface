@@ -1,6 +1,6 @@
 <?php
 
-namespace Windlabs\LaravelRbac;
+namespace Windlabs\Admin;
 
 use Illuminate\Support\ServiceProvider;
 
