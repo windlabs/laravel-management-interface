@@ -10,11 +10,19 @@
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "laravel/framework": ">=5.5",
     },
     "autoload": {
         "psr-4": {
             "Windlabs\\Management\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Windlabs\\Management\\ManagementServiceProvider"
+            ]
         }
     }
 }

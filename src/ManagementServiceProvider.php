@@ -1,10 +1,10 @@
 <?php
 
-namespace Windlabs\Admin;
+namespace Windlabs\Management;
 
 use Illuminate\Support\ServiceProvider;
 
-class Md5HasherProvider extends ServiceProvider
+class ManagementServiceProvider extends ServiceProvider
 {
     /**
      * Register services.

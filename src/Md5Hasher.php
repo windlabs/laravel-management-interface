@@ -1,9 +1,9 @@
 <?php
-namespace Windlabs\ADmin;
+namespace Windlabs\Management;
 
 /**
  * Class Md5Hasher
- * @package Windlabs\laravelRbac
+ * @package Windlabs\Management
  */
 class Md5Hasher{
     /**
