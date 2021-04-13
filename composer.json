@@ -1,6 +1,6 @@
 {
-    "name": "windlabs/admin",
-    "description": "laravel rbac",
+    "name": "windlabs/laravel-management-interface",
+    "description": "Laravel management interface",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Windlabs\\Admin\\": "src/"
+            "Windlabs\\Management\\": "src/"
         }
     }
 }
